@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/test1/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\gcc.exe\"  @CMakeFiles/Test1.dir/includes_C.rsp -g -o CMakeFiles\\Test1.dir\\src\\book.c.obj -c D:\\test1\\src\\book.c",
+  "file": "D:/test1/src/book.c"
+},
+{
+  "directory": "D:/test1/build",
+  "command": "\"D:\\Program Files (x86)\\mingw64\\bin\\gcc.exe\"  @CMakeFiles/Test1.dir/includes_C.rsp -g -o CMakeFiles\\Test1.dir\\src\\main.c.obj -c D:\\test1\\src\\main.c",
+  "file": "D:/test1/src/main.c"
+}
+]
